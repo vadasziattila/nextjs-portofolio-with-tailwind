@@ -1,2 +1,2 @@
 # react-portofolio-with-tailwind
- React example portfolio with Tailwind CSS
+ React portfolio example with Tailwind CSS
