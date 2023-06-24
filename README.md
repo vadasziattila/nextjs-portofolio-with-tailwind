@@ -1,2 +1,2 @@
-# react-portofolio-with-tailwind
- React portfolio example with Tailwind CSS
+# nextjs-portofolio-with-tailwind
+ Next.js portfolio example with Tailwind CSS
