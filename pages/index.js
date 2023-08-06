@@ -61,7 +61,7 @@ export default function Home() {
             </h3>
             <p className="text-md py-5 leading-8 text-gray-800 dark:text-gray-200 max-w-xl mx-auto md:text-xl">
               Freelancer providing services for programming and design content
-              needs. Join me down below and let's get cracking!
+              needs. Join me down below and let&apos;s get cracking!
             </p>
             <div className="text-5xl flex justify-center gap-16 py-3 text-gray-600 dark:text-gray-400">
               <AiFillTwitterCircle />
@@ -77,6 +77,7 @@ export default function Home() {
                       layout="fill"
                       objectFit="cover"
                       className="rounded-full"
+                      alt="dev"
                     />
                   </div>
                 </div>
@@ -89,7 +90,7 @@ export default function Home() {
             <h3 className="text-3xl py-1 dark:text-white ">Services I offer</h3>
             <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
               Since the beginning of my journey as a freelance designer and
-              developer, I've done remote work for
+              developer, I&apos;ve done remote work for
               <span className="text-teal-500"> agencies </span>
               consulted for <span className="text-teal-500">startups </span>
               and collaborated with talanted people to create digital products
@@ -122,7 +123,7 @@ export default function Home() {
                 Code your dream project
               </h3>
               <p className="py-2">
-                Do you have an idea for your next great website? Let's make it a
+                Do you have an idea for your next great website? Let&apos;s make it a
                 reality.
               </p>
               <h4 className="py-4 text-teal-600 dark:text-white">Design Tools I Use</h4>
@@ -151,7 +152,7 @@ export default function Home() {
             <h3 className="text-3xl py-1 dark:text-white ">Portofolio</h3>
             <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
               Since the beginning of my journey as a freelance designer and
-              developer, I've done remote work for
+              developer, I&apos;ve done remote work for
               <span className="text-teal-500"> agencies </span>
               consulted for <span className="text-teal-500">startups </span>
               and collaborated with talanted people to create digital products
@@ -170,6 +171,7 @@ export default function Home() {
                 height={"100%"}
                 layout="responsive"
                 src={web1}
+                alt="web1"
               />
             </div>
             <div className="basis-1/3 flex-1">
@@ -179,6 +181,7 @@ export default function Home() {
                 height={"100%"}
                 layout="responsive"
                 src={web2}
+                alt="web2"
               />
             </div>
             <div className="basis-1/3 flex-1">
@@ -188,6 +191,7 @@ export default function Home() {
                 height={"100%"}
                 layout="responsive"
                 src={web3}
+                alt="web3"
               />
             </div>
             <div className="basis-1/3 flex-1">
@@ -197,6 +201,7 @@ export default function Home() {
                 height={"100%"}
                 layout="responsive"
                 src={web4}
+                alt"web4"
               />
             </div>
             <div className="basis-1/3 flex-1">
@@ -206,6 +211,7 @@ export default function Home() {
                 height={"100%"}
                 layout="responsive"
                 src={web5}
+                alt="web5"
               />
             </div>
             <div className="basis-1/3 flex-1">
@@ -215,6 +221,7 @@ export default function Home() {
                 height={"100%"}
                 layout="responsive"
                 src={web6}
+                alt="web6"
               />
             </div>
           </div>
